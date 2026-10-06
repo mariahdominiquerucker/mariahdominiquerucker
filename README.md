@@ -50,6 +50,17 @@ Mariah’s **professional resumes** documents her multidisciplinary background a
 | 🧮 **Accounting Resume** | https://drive.google.com/drive/folders/1fbKeevwA7rFtSYHoUY5abxUdlGq3_JAH |
 | 💻 **Cybersecurity and Technology Resume** | https://drive.google.com/drive/folders/1fbKeevwA7rFtSYHoUY5abxUdlGq3_JAH |
 
+## 🎶 Pathway to Success by RIAH Pathway
+
+<p align="center">
+  <a href="https://youtu.be/qVr8CKMIAb4">
+    <img
+      src="https://img.shields.io/badge/👑_RIAH_PATHWAY-▶_PLAY_PATHWAY_TO_SUCCESS-red?style=for-the-badge"
+      alt="Play Pathway to Success by RIAH Pathway"
+    />
+  </a>
+</p>
+
 <img width="1450" height="1085" alt="E" src="https://github.com/user-attachments/assets/44899588-e12d-4178-a426-94ff91960810" />
 
 ---
