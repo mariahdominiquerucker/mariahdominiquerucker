@@ -71,7 +71,7 @@ Mariah’s **multidisciplinary education** includes studies in **Organizational 
 
 | College | Education | Verification |
 | --- | --- | --- |
-| 💻 **Eastern University** | **Master of Business Administration in Organizational Management • 2022** | Transcripts upon request; degree verified by the **Nevada Department of Education in July 202**. |
+| 💻 **Eastern University** | **Master of Business Administration in Organizational Management • 2022** | Transcripts upon request; degree verified by the **Nevada Department of Education in July 2026 for Substitute Teaching License**. |
 | 💻 **Central Methodist University** | **Computer Science • 2019** • Degree verified through the **Nevada Substitute Teacher License**. | http://meritpages.com/ruckermariah |
 | 🧮 **Kent State University** | **Accounting • 2016** • Degree verified through the **Certified Fraud Examiner certification** and the **Nevada Department of Education**. | http://meritpages.com/mariahrucker |
 
