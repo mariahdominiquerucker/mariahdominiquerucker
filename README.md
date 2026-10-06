@@ -8,7 +8,7 @@
 ![Schedule a Meeting through Calendly](https://img.shields.io/badge/📅_Schedule_a_Meeting-Calendly-D4AF37?style=for-the-badge&labelColor=000000&color=D4AF37)
 ![Degrees, Media, and Professional Links through Linktree](https://img.shields.io/badge/🔗_Degrees,_Media_&_Professional_Links-Linktree-DC2626?style=for-the-badge&labelColor=000000)
 
-**Mariah Dominique Rucker**, born **December 2, 1993**, with natural dimples and moles on Mariah’s face, is a **multidisciplinary professional in Accounting, Cybersecurity, and Technology** with more than **10 years of documented education and professional experience**, and is the **Founder/CEO/Chairman of [RIAH Pathway](https://riahpathway.com)**, building a **connected ecosystem integrating education, real work experience, certifications, products, people, software, and a mobile app**. 
+**Mariah Dominique Rucker**, born **December 2, 1993**, with natural dimples and moles on Mariah’s face, is a **multidisciplinary professional in Accounting, Cybersecurity, and Technology**. She has more than **10 years of documented education and professional experience**, and is the **Founder/CEO/Chairman of [RIAH Pathway](https://riahpathway.com)**, building a **connected ecosystem integrating education, real work experience, certifications, products, people, software, and a mobile app**. 
 
 <div align="center">
 
