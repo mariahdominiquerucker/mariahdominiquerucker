@@ -24,6 +24,72 @@
 
 <img width="1024" height="1536" alt="F" src="https://github.com/user-attachments/assets/2c12ca9f-66ed-4969-b606-1e8af4e48990" />
 
+<a id="profile-education"></a>
+
+## 🎓 Education
+
+### 🔄 In Progress
+
+| Credential | Field | Pathway | Target |
+|---|---|---|---|
+| 🔄 Bachelor's | Finance | RIAH Pathway | **2029** |
+| 🔄 Bachelor's | Cybersecurity | RIAH Pathway | **2029** |
+| 🔄 Bachelor's | Intelligence | RIAH Pathway | **2029** |
+| 🔄 JD | Law | RIAH Pathway | **2030** |
+
+### ✅ Earned
+
+| Credential | Field | Institution | Year | Verification |
+|---|---|---|---|---|
+| ✅ MBA | Organizational Management | Eastern University | **2022** | Education verified by the Nevada Board of Education for substitute teaching licensure, July 2026 |
+| ✅ B.S. | Computer Science | Central Methodist University | **2019** | [Merit Pages](https://meritpages.com/RuckerMariah) • Nevada Board of Education verification, July 2026 |
+| ✅ B.B.A. | Accounting | Kent State University | **2016** | [Merit Pages](https://meritpages.com/MariahRucker) • Nevada Board of Education verification, July 2026 |
+| ✅ Minor | International Business Spanish | Kent State University | **2016** | [Merit Pages](https://meritpages.com/MariahRucker) • Nevada Board of Education verification, July 2026 |
+
+<a id="profile-certifications"></a>
+
+## 📚 Professional Certifications
+
+| Certification | Status |
+|---|---|
+| Certified Fraud Examiner — **CFE** | ✅ Earned |
+| (ISC)² Certified in Cybersecurity — **CC** | ✅ Earned |
+| Certified Public Accountant — **CPA** | 🔄 In Progress |
+| Certified Management Accountant — **CMA** | 🔄 In Progress |
+| Certified Internal Auditor — **CIA** | 🔄 In Progress |
+| Certified Information Systems Auditor — **CISA** | 🔄 In Progress |
+| Certified Information Security Manager — **CISM** | 🔄 In Progress |
+| Certified in Risk and Information Systems Control — **CRISC** | 🔄 In Progress |
+| Certified Information Systems Security Professional — **CISSP** | 🔄 In Progress |
+
+<a id="profile-professional-experience"></a>
+
+## 💼 Professional Experience
+
+Professional experience began in **2013** across entrepreneurship, financial services, public accounting, corporate environments, and higher education.
+
+| Sector | Employer |
+|---|---|
+| 💻 Entrepreneurship | **RIAH** |
+| 💳 Financial Services | **JPMorgan Chase** |
+| 💳 Financial Services | **PNC Bank** |
+| 🧮 Public Accounting | **Ernst & Young** |
+| 🧮 Public Accounting | **Grant Thornton** |
+| 🏢 Global Corporation | **Nestlé** |
+| 🎓 Higher Education | **Kent State University** |
+
+<a id="profile-areas-of-experience"></a>
+
+## 🧠 Areas of Experience
+
+| Business & Finance | Technology | Professional |
+|---|---|---|
+| 🧮 Accounting | 🔐 Cybersecurity | 💼 Consulting |
+| 🔍 Audit | 💻 Technology | 👥 Management |
+| 📈 Analytics | 🤖 Automation | 🎓 Higher Education |
+| 💳 Financial Services | 💻 Development | 💻 Entrepreneurship |
+| 🧮 Public Accounting | ⚙️ Implementation | 🏢 Business Operations |
+
 ---
 
 | Social | Full Link |
@@ -62,48 +128,6 @@ Mariah’s **professional resumes** documents her multidisciplinary background a
 </p>
 
 <img width="1450" height="1085" alt="E" src="https://github.com/user-attachments/assets/44899588-e12d-4178-a426-94ff91960810" />
-
----
-
-## Education
-
-Mariah’s **multidisciplinary education** includes studies in **Organizational Management, Computer Science, and Accounting**.
-
-| College | Education | Verification |
-| --- | --- | --- |
-| 💻 **Eastern University** | **Master of Business Administration in Organizational Management • 2022** | Transcripts upon request; degree verified by the **Nevada Department of Education in July 2026 for Substitute Teaching License**. |
-| 💻 **Central Methodist University** | **Computer Science • 2019** • Degree verified through the **Nevada Substitute Teacher License**. | http://meritpages.com/ruckermariah |
-| 🧮 **Kent State University** | **Accounting • 2016** • Degree verified through the **Certified Fraud Examiner certification** and the **Nevada Department of Education**. | http://meritpages.com/mariahrucker |
-
----
-
-## Professional Experience
-
-Mariah began Mariah’s **professional career in 2013** and has earned **multidisciplinary professional experience** within multiple sectors and employers.
-
-| Professional Sector | Employers |
-| --- | --- |
-| 🏢 **Government Regulated Private-Sector Entrepreneurship** | **RIAH** |
-| 💳 **Fortune 500 Financial Services** | **JPMorgan Chase** <br> **PNC Bank** |
-| 📊 **Public Accounting** | **Ernst and Young** <br> **Grant Thornton** |
-| 🌍 **Global Corporation** | **Nestlé** |
-| 🎓 **Higher Education** | **Kent State University** |
-
----
-
-## Areas of Experience
-
-| Area of Experience | Experience |
-| --- | --- |
-| 🧮 **Accounting** | **Expert** |
-| 📈 **Analytics** | **Advanced** |
-| 🔍 **Audit** | **Professional** |
-| 🤖 **Automation** | **Innovation** |
-| 💼 **Consulting** | **Strategic** |
-| 💻 **Development** | **Software, Mobile, and Web** |
-| 🔐 **Cybersecurity** | **Technical and GRC** |
-| ⚙️ **Implementation** | **Enterprise** |
-| 👥 **Management** | **Leadership** |
 
 ---
 
