@@ -119,7 +119,7 @@ Mariah’s **professional resumes** documents her multidisciplinary background a
 ## 🎶 Pathway to Success by RIAH Pathway
 
 <p align="center">
-  <a href="https://youtu.be/qVr8CKMIAb4">
+  <a href="https://www.youtube.com/shorts/cQNTthwCDsc?si=FIn-8NvNAl2XLe60">
     <img
       src="https://img.shields.io/badge/👑_RIAH_PATHWAY-▶_PLAY_PATHWAY_TO_SUCCESS-red?style=for-the-badge"
       alt="Play Pathway to Success by RIAH Pathway"
