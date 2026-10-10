@@ -42,7 +42,7 @@ RIAH Pathway is **NOW HIRING**: [see the 2026 hiring timeline and position profi
 
 ### 📥 Join Us Hiring Downloads
 
-| Document / Download | Description |
+| Document/Download | Description |
 |---|---|
 | [Current Master Hiring Timeline & Position Profiles (PDF)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf) | 2026 recruitment schedule and full position profiles (view or download). |
 | [16-JOIN-US.md](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/16-JOIN-US.md) | Join Us parent routing document inside the renamed **16-JOIN-US** folder; preserves the numbered wireframe pages. |
