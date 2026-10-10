@@ -8,7 +8,44 @@
 ![Schedule a Meeting through Calendly](https://img.shields.io/badge/📅_Schedule_a_Meeting-Calendly-D4AF37?style=for-the-badge&labelColor=000000&color=D4AF37)
 ![Degrees, Media, and Professional Links through Linktree](https://img.shields.io/badge/🔗_Degrees,_Media_&_Professional_Links-Linktree-DC2626?style=for-the-badge&labelColor=000000)
 
-**Mariah Dominique Rucker**, born **December 2, 1993**, with natural dimples and moles on her face, is a **multidisciplinary professional in Accounting, Cybersecurity, and Technology**. She has more than **10 years of documented education and professional experience**, and is the **Founder/CEO/Chairman of [RIAH Pathway](https://riahpathway.com)**, building a **connected ecosystem integrating education, real work experience, certifications, products, people, software, and a mobile app**. 
+**Mariah Dominique Rucker**, born **December 2, 1993**, with natural dimples and moles on her face, is a **multidisciplinary professional in Accounting, Cybersecurity, and Technology**. She has more than **10 years of documented education and professional experience**, and is the **Founder/CEO/Chairman of [RIAH Pathway](https://riahpathway.com)**, building a **connected ecosystem integrating education, real work experience, certifications, products, people, software, and a mobile app**.  RIAH Pathway is **NOW HIRING**: [see the 2026 hiring timeline and position profiles (PDF)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf).
+
+
+<a id="readme-now-hiring"></a>
+
+## 📣 NOW HIRING — 2026 Recruitment Schedule
+
+**RIAH Pathway is NOW HIRING.** Recruitment began **October 10, 2026**, with the **Chief Information Security Officer (CISO)** opening; additional scheduled rounds include executive leadership (CTO, CFO, CLO, COO), academic faculty, cybersecurity specialists, technology builders and architect, board governance, and program and project directors. Openings begin on their respective dates below; later staffing is demand-based.
+
+<img src="https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/RIAH-PATHWAY-HIRING.jpg" width="640" alt="RIAH Pathway NOW HIRING recruitment flyer" />
+
+**Public first-round Zoom interviews:** [Schedule a 30-minute Calendly interview](https://calendly.com/riahpathway/30min). First-round interview booking is **first come, first served**. Each round closes at **5:00 p.m. ET on the listed Tuesday**, or earlier if available appointment slots fill. Finalists receive private second-round links on Wednesday; final hiring notices follow on Monday.
+
+### 📅 Master Hiring Schedule — All Dates 2026
+
+| Hiring round / positions | Opens | Closes | Public 1st Zoom | Wed. finalist notices | Private 2nd Zoom | Weekend review | Hiring notices | Official start |
+|---|---|---|---|---|---|---|---|---|
+| CISO | Oct 10 | Oct 13 | Oct 12–13 | Oct 14 | Oct 15–16 | Oct 17–18 | Oct 19 | Oct 26 |
+| CTO | Oct 16 | Oct 20 | Oct 19–20 | Oct 21 | Oct 22–23 | Oct 24–25 | Oct 26 | Nov 2 |
+| CFO | Oct 23 | Oct 27 | Oct 26–27 | Oct 28 | Oct 29–30 | Oct 31–Nov 1 | Nov 2 | Nov 9 |
+| CLO | Oct 30 | Nov 3 | Nov 2–3 | Nov 4 | Nov 5–6 | Nov 7–8 | Nov 9 | Nov 16 |
+| COO | Nov 6 | Nov 10 | Nov 9–10 | Nov 11 | Nov 12–13 | Nov 14–15 | Nov 16 | Nov 23 |
+| PhD + adjunct faculty (14 each) | Nov 13 | Nov 17 | Nov 16–17 | Nov 18 | Nov 19–20 | Nov 21–22 | Nov 23 | Nov 30 |
+| Cybersecurity specialists (Red, Blue, Purple) | Nov 20 | Nov 24 | Nov 23–24 | Nov 25 | Nov 26–27 | Nov 28–29 | Nov 30 | Dec 7 |
+| Technology builders + architect | Nov 27 | Dec 1 | Nov 30–Dec 1 | Dec 2 | Dec 3–4 | Dec 5–6 | Dec 7 | Dec 14 |
+| Board of governance | Dec 4 | Dec 8 | Dec 7–8 | Dec 9 | Dec 10–11 | Dec 12–13 | Dec 14 | Dec 21 |
+| Program + project directors | Dec 11 | Dec 15 | Dec 14–15 | Dec 16 | Dec 17–18 | Dec 19–20 | Dec 21 | Dec 28 |
+
+**Later, demand-based hiring:** Planned experiential positions across the four schools (up to 120 in the staffing plan, not immediate openings), additional experiential positions beyond 120, product and service contractors, and JD/non-JD attorney and judge supervisors use the same recruitment process once organizational demand and resources are confirmed. They do not yet have fixed dates.
+
+### 📥 Join Us Hiring Downloads
+
+| Download | File |
+|---|---|
+| 📄 Master Hiring Timeline & Position Profiles (PDF) | [View the PDF](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf) · [Download the PDF](https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf) |
+| 🖼️ Official RIAH Pathway Hiring Flyer (JPG) | [View or save hiring flyer](https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/RIAH-PATHWAY-HIRING.jpg) |
+
+---
 
 <div align="center">
 
