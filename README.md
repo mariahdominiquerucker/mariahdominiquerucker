@@ -16,9 +16,13 @@
 
 **RIAH Pathway is NOW HIRING.** Recruitment began **October 10, 2026**, with the **Chief Information Security Officer (CISO)** opening; additional scheduled rounds include executive leadership (CTO, CFO, CLO, COO), academic faculty, cybersecurity specialists, technology builders and architect, board governance, and program and project directors. Openings begin on their respective dates below; later staffing is demand-based.
 
-<img src="https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/RIAH-PATHWAY-HIRING.jpg" width="640" alt="RIAH Pathway NOW HIRING recruitment flyer" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/RIAH-PATHWAY-HIRING.jpg" width="640" alt="RIAH Pathway NOW HIRING recruitment flyer" />
+</p>
 
-**Public first-round Zoom interviews:** [Schedule a 30-minute Calendly interview](https://calendly.com/riahpathway/30min). First-round interview booking is **first come, first served**. Each round closes at **5:00 p.m. ET on the listed Tuesday**, or earlier if available appointment slots fill. Finalists receive private second-round links on Wednesday; final hiring notices follow on Monday.
+**Public first-round Zoom interviews:** [Schedule a 30-minute Calendly interview](https://calendly.com/riahpathway/30min). 
+
+First-round interview booking is **first come, first served**. Each round closes at **5:00 p.m. ET on the listed Tuesday**, or earlier if available appointment slots fill. Finalists receive private second-round links on Wednesday; final hiring notices follow on Monday.
 
 ### 📅 Master Hiring Schedule — All Dates 2026
 
