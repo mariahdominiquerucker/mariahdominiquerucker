@@ -8,7 +8,9 @@
 ![Schedule a Meeting through Calendly](https://img.shields.io/badge/📅_Schedule_a_Meeting-Calendly-D4AF37?style=for-the-badge&labelColor=000000&color=D4AF37)
 ![Degrees, Media, and Professional Links through Linktree](https://img.shields.io/badge/🔗_Degrees,_Media_&_Professional_Links-Linktree-DC2626?style=for-the-badge&labelColor=000000)
 
-**Mariah Dominique Rucker**, born **December 2, 1993**, with natural dimples and moles on her face, is a **multidisciplinary professional in Accounting, Cybersecurity, and Technology**. She has more than **10 years of documented education and professional experience**, and is the **Founder/CEO/Chairman of [RIAH Pathway](https://riahpathway.com)**, building a **connected ecosystem integrating education, real work experience, certifications, products, people, software, and a mobile app**.  RIAH Pathway is **NOW HIRING**: [see the 2026 hiring timeline and position profiles (PDF)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf).
+**Mariah Dominique Rucker**, born **December 2, 1993**, with natural dimples and moles on her face, is a **multidisciplinary professional in Accounting, Cybersecurity, and Technology**. She has more than **10 years of documented education and professional experience**, and is the **Founder/CEO/Chairman of [RIAH Pathway](https://riahpathway.com)**, building a **connected ecosystem integrating education, real work experience, certifications, products, people, software, and a mobile app**.  
+
+RIAH Pathway is **NOW HIRING**: [see the 2026 hiring timeline and position profiles (PDF)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf).
 
 
 <a id="readme-now-hiring"></a>
@@ -40,10 +42,13 @@
 
 ### 📥 Join Us Hiring Downloads
 
-| Download | File |
+| Document / Download | Description |
 |---|---|
-| 📄 Master Hiring Timeline & Position Profiles (PDF) | [View the PDF](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf) · [Download the PDF](https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf) |
-| 🖼️ Official RIAH Pathway Hiring Flyer (JPG) | [View or save hiring flyer](https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/RIAH-PATHWAY-HIRING.jpg) |
+| [Current Master Hiring Timeline & Position Profiles (PDF)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf) | 2026 recruitment schedule and full position profiles (view or download). |
+| [16-JOIN-US.md](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/16-JOIN-US.md) | Join Us parent routing document inside the renamed **16-JOIN-US** folder; preserves the numbered wireframe pages. |
+| [Public-Facing Compensation, Equity & Benefits](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/PUBLIC-FACING-COMPENSATION-EQUITY-BENEFITS.md) | Common employee benefits, $0–$1B revenue-tier benefits, 48-month performance-linked equity accrual and stage compensation percentages. |
+| [ALL-POSITIONS-COMBINED.md](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/ALL-POSITIONS-COMBINED.md) | Existing combined role directory with the updated public benefits, equity accrual, and vesting reference added. |
+
 
 ---
 
