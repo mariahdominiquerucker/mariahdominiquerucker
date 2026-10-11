@@ -1,6 +1,6 @@
 # README Images
 
-This folder is reserved for images referenced by the repository's profile README. Its six original images are currently hosted as GitHub user attachments. The existing links are preserved below until the original binary images can be copied here. Do not replace image paths in the profile README until local files exist, to avoid breaking the displayed images.
+This folder is reserved for images referenced by the repository's profile README. Its six original images are hosted as GitHub user attachments. The existing links are preserved below until the original binary images can be copied here. Do not replace image paths in the profile README until local files exist, to avoid breaking the displayed images.
 
 | Intended filename stem | Original image alt | Original image URL |
 | --- | --- | --- |
