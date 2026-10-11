@@ -45,7 +45,6 @@ First-round interview booking is **first come, first served**. Each round closes
 
 | Document/Download | Description |
 |---|---|
-| [Official RIAH Pathway Hiring Flyer (JPG)](https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/IMAGES/WEBSITE-IMAGES/17.4-JOIN-OUR-TEAM/RIAH-PATHWAY-HIRING.jpg) | View or save the official NOW HIRING recruitment flyer from the Website-Draft repository. |
 | [Hiring Timeline & Position Profiles](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/17.4-JOIN-OUR-TEAM/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf) | 2026 recruitment schedule and full position profiles (view or download). |
 | [Join Us](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/17.1-JOIN-US-WIREFRAME-MAIN.md) | Current Join Us main wireframe inside the **17-JOIN-US** folder. |
 | [Compensation, Equity & Benefits](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/POSITION-AND-SUPPORTING-MDS/17.4-JOIN-OUR-TEAM/17.4.13.2-COMPENSATION-EQUITY-BENEFITS.md) | Common employee benefits, $0–$1B revenue-tier benefits, 48-month performance-linked equity accrual and stage compensation percentages. |
