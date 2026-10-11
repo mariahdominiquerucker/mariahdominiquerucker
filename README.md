@@ -17,7 +17,7 @@
 **RIAH Pathway is NOW HIRING.** I am currently building RIAH Pathway and leading recruitment as Founder/CEO/Chairman. I am only person on the team and the staged 2026 recruitment begins with CISO on October 10, followed by CTO, CFO, CLO, COO, faculty, cybersecurity, technology, board, and director roles. Experiential and additional professional opportunities open according to confirmed demand. 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/RIAH-PATHWAY-HIRING.jpg" width="640" alt="RIAH Pathway NOW HIRING recruitment flyer" />
+  <img src="https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/IMAGES/WEBSITE-IMAGES/17.4-JOIN-OUR-TEAM/RIAH-PATHWAY-HIRING.jpg" width="640" alt="RIAH Pathway NOW HIRING recruitment flyer" />
 </p>
 
 **Public first-round Zoom interviews:** [Schedule a 30-minute Calendly interview](https://calendly.com/riahpathway/30min). 
