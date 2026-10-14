@@ -20,7 +20,7 @@
 
 > **Schools, accreditation & website:** RIAH Pathway is in its **pre-accreditation stage (not yet accredited)** and plans to seek applicable state authorization and program accreditation/recognition, including **ABA, ACCSC, ABET, NSA**, and other relevant bodies. Expansion is planned across **all 50 states and D.C.**. The website releases **by November 2026**. See the [Website Wireframes & Structure](https://github.com/RIAHPathway/Website-Draft/tree/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE) folder for information being revised and finalized. **Tuition, fees, and internal/external pricing** for beta pre-accreditation and post-accreditation will be finalized and published at website launch. Beta cohort applications open November 2026 with launch planned for Spring 2027. All curriculum and experientials are 100% remote and proctored with industry professionals from CPA's to Judges to Engineers, except external placements which are either remote, hybrid, or onsite depending on partner employers. Details on the curriculum, tuition, fees, and up to 50% tuition reimbursement with 10% guaranteed will be forthcoming on the website. 
 
-<p align="center"><strong>👤Contributor/Founder/CEO/Chairman: Mariah Dominique Rucker</strong>is building and leading RIAH Pathway.</p>
+<p align="center"><strong>👤Contributor/Founder/CEO/Chairman: Mariah Dominique Rucker</strong> is building and leading RIAH Pathway.</p>
 
 <p align="center"><img src="https://github.com/mariahdominiquerucker.png" width="210" alt="Mariah Dominique Rucker — Founder, CEO and Chairman" /></p>
 
