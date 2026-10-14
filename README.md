@@ -1,4 +1,4 @@
-<h1 align="center">👑 Mariah Dominique Rucker Multidisciplinary Professional in Accounting, Cybersecurity, and Technology.</h1>
+<h1 align="center">👑 Mariah Dominique Rucker is the Multidisciplinary Professional in Accounting, Cybersecurity, and Technology.</h1>
 
 <p align="center"><img width="1881" height="836" alt="A" src="IMAGES/Profile-Banner.png" /></p>
 
