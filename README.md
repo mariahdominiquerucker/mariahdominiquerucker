@@ -2,7 +2,7 @@
 
 <p align="center"><img width="1881" height="836" alt="A" src="IMAGES/Profile-Banner.png" /></p>
 
-<p align="center"><strong>Mariah Dominique Rucker</strong>, born <strong>December 2, 1993</strong>, with natural dimples and moles on her face, is a <strong>multidisciplinary professional in Accounting, Cybersecurity, and Technology</strong>. She has more than <strong>10 years of documented education and professional experience</strong>, and is the <strong>Founder/CEO/Chairman of <a href="https://riahpathway.com">RIAH Pathway</a></strong>, building a <strong>connected ecosystem integrating education, real work experience, certifications, products, people, software, and a mobile app</strong>.</p>
+<p align="center"><strong>Mariah Dominique Rucker</strong>, born <strong>December 2, 1993</strong>, with natural dimples and moles on her face, is a <strong>multidisciplinary professional in Accounting, Cybersecurity, and Technology</strong>. She has more than <strong>10 years of verified and documented education and professional experience</strong>, and is the <strong>Founder/CEO/Chairman of <a href="https://riahpathway.com">RIAH Pathway</a></strong>, building a <strong>connected ecosystem integrating education, real work experience, certifications, products, people, software, and a mobile app</strong>.</p>
 
 ---
 
