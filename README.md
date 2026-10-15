@@ -383,6 +383,11 @@
   </thead>
   <tbody>
     <tr>
+     <td align="center">🍎 <strong>Ohio Substitute Teacher License Number OH3368565</strong></td>
+      <td align="center"><strong>2020, 2021, 2026</strong> • Ohio Department of Education Verified All Degrees in <strong>Accounting, Computer Science, and Master of Business Administration</strong>.</td>
+      <td align="center"><a href="https://core.ode.state.oh.us/Core4/ODE.CORE.Lic.Profile.Public.UI/">https://core.ode.state.oh.us/Core4/ODE.CORE.Lic.Profile.Public.UI/</a></td>
+    </tr>      
+    <tr>
       <td align="center">🍎 <strong>Nevada Substitute Teacher License Number 241907 or 12/2/1993 DOB</strong></td>
       <td align="center"><strong>2026–2031</strong> • Nevada Department of Education Verified All Degrees in <strong>Accounting, Computer Science, and Master of Business Administration</strong>.</td>
       <td align="center"><a href="https://online.nvdoe.org/#/VerifyLicense">https://online.nvdoe.org/#/VerifyLicense</a></td>
