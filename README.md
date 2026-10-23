@@ -156,11 +156,11 @@
   <tbody>
     <tr>
       <td align="left">Certified Fraud Examiner — <strong>CFE</strong></td>
-      <td align="left">✅ Earned</td>
+      <td align="left">✅ <a href="https://www.credly.com/badges/475a306b-ae15-4130-8c89-2ae0bfa0b25b">Earned</a></td>
     </tr>
     <tr>
       <td align="left">(ISC)² Certified in Cybersecurity — <strong>CC</strong></td>
-      <td align="left">✅ Earned</td>
+      <td align="left">✅ <a href="https://www.credly.com/badges/d250fe79-7c93-4598-b854-51ba240018c9">Earned</a></td>
     </tr>
     <tr>
       <td align="left">Certified Public Accountant — <strong>CPA</strong></td>
