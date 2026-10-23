@@ -17,7 +17,7 @@
 | Physical Characteristics            | Natural dimples and moles on her face.                                                                                                                                                              |
 | Professional Background             | Multidisciplinary professional in Accounting, Cybersecurity, and Technology.                                                                                                                        |
 | Education & Professional Experience | More than 10 years of verified and documented education and professional experience.                                                                                                                |
-| Leadership                          | Founder/CEO/Chairman of [RIAH Pathway](https://riahpathway.com)                                                                                                              
+| Leadership                          | Founder/CEO/Chairman of [RIAH Pathway](https://github.com/riahpathway)                                                                                                              
 
 ---
 
